@@ -1,1 +1,4 @@
-
+build/
+*.o
+__pycache__/
+venv/
